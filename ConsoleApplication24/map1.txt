@@ -1,0 +1,30 @@
+################################################################################
+#                                            ~~~~~~~~~~~~~~~~~~W~~~~~~~~~~~~~~~#
+#                HH  HH       H  H H          =====================~~~W~~~~~~~~#
+#                                              ======================~~~~~~W~~~#
+#                H     H     H     H H           ~~~~~W~~~~WWWWW~~===~~~~~~~~~~#
+#       w                            H         W  ~~~~~~~~~~~W~~~~W==~W~~~~~~~~#
+#                                    H         W   ~~~~~~~~~~~~~~~W==W~~W~~~~~~#
+#    w         W     W   W   W   H  HH         w    ~~~~~~~~~~~WWW~==~~~~~~~~~~#
+#                     W    W                   W     ~~~~~~W~W~~~W~==~~~~~~~~~~#
+#    w                 W    W                  W      ~~~~~~W~~WW~~==~~~~~~~~~~#
+#          w                       H H    W   W W      ~~~~~~~~W~~~==~~~~~~~~~~#
+#    w    Ww    w W                            W        ~~~~~~~~~~~==~~~~W~~~~~#
+#             w  w W                  H        W         ~~~~~~~~~~==~~~~~~~~~~#
+#        w                W           H        W     H H H HH   ~~~==~~~~~~~~~~#
+#                W    w               H        W     H            ~==~~~~~~~~~~#
+#                          W          H              H               W  ~~~~~~~#
+#      W                WW       W    H              H        WW        W  ~~~~#
+#           W              W                   W     H                    W  ~~#
+#         W       wW    W             H              H            W            #
+#   W W W   w  W           W    W        H H H  H H HH                         #
+#   W   w  Ww  W   Ww                                           W     W        #
+# W W W mmmW    W        W         W                                           #
+#  mmm mWmmmmmm    W                         W                 W              W#
+#    mmmmMMMMMmm   W W W         W                       W              W      #
+#mmmMMMMMMMMMMMMmmm    W W                W     W          W                   #
+#mmmMMMMMMMMMMMMMMMm   W  W          W                            W            #
+#mmMMMMMMMMMMWMWMMMMMmm  W         W        W    W  W        W                 #
+# mmmWmmWmmWmmmmmmmWmWW                                                   W    #
+# Wwmmw       mmm WWWwWw                                                       #
+################################################################################

@@ -1,0 +1,6 @@
+﻿  ConsoleApplication24.cpp
+C:\Users\VR-01\source\repos\ConsoleApplication24\ConsoleApplication24\ConsoleApplication24.cpp(1376,17): warning C4101: n: неиспользованная локальная переменная
+C:\Users\VR-01\source\repos\ConsoleApplication24\ConsoleApplication24\ConsoleApplication24.cpp(1631,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\VR-01\source\repos\ConsoleApplication24\ConsoleApplication24\ConsoleApplication24.cpp(127): warning C4715: Time::getTime: значение возвращается не при всех путях выполнения
+C:\Users\VR-01\source\repos\ConsoleApplication24\ConsoleApplication24\ConsoleApplication24.cpp(1627): warning C4715: weapon::CheckMove: значение возвращается не при всех путях выполнения
+  ConsoleApplication24.vcxproj -> C:\Users\VR-01\source\repos\ConsoleApplication24\Debug\ConsoleApplication24.exe
